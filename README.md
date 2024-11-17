@@ -27,7 +27,7 @@ Download the script on your _VPS_ and execute it with root privileges
 
 **WARNING** The script will **delete** any data in your _VPS_!
 
-	wget https://felixc.at/vps2arch
+	wget https://github.com/linuxusersphake/vps2arch/raw/refs/heads/master/vps2arch
 	chmod +x vps2arch
 	./vps2arch
 
